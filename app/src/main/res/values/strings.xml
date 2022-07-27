@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Qr Helper</string>
+    <string name="header_title">Place QR image inside box</string>
+    <string name="powered_by">Powered by</string>
+    <string name="something_went_wrong">Sorry something went wrong with your camera device</string>
+</resources>
